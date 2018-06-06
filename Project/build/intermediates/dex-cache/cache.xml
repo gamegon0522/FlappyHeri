@@ -10,5 +10,14 @@
         sha1="2d302418aa3482b8db770278260340aed47dd37a">
         <dex dex="/Users/user01/Downloads/blog/build/intermediates/pre-dexed/debug/unity-classes_c9a1876125fc50e0f94969e4bf6ed2cc2eaeb96c.jar" />
     </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user01/FlappyHeri/Project/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="/Users/user01/FlappyHeri/Project/build/intermediates/pre-dexed/debug/unity-classes_62343a6ba7fe88e2ac1462fe963ed11c270a8cc9.jar" />
+    </item>
 
 </items>
