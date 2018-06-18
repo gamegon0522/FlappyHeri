@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user01/FlappyHeri/FlappyHeri/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_c077328a59d01a66ce45075d2a7a693434c6f488/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user01/FlappyHeri/FlappyHeri/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/pre-dexed/debug/unity-classes_c077328a59d01a66ce45075d2a7a693434c6f488.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2ed85a8cd052772710db10efd9552c01beeb0bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="369a3255f413233f5fead427d82e32abcfe21761">
+        <dex dex="/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_06898a82a720160714d6fefca21bf6e959853e2e/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Fri Jun 15 16:58:40 JST 2018
+base.0=/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/user01/FlappyHeri/FlappyHeri/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
