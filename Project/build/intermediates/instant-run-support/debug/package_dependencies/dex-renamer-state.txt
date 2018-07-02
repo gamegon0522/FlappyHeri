@@ -1,4 +1,4 @@
-#Fri Jun 08 15:10:33 JST 2018
+#Tue Jun 12 16:58:27 JST 2018
 base.0=/Users/user01/FlappyHeri/Project/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_62343a6ba7fe88e2ac1462fe963ed11c270a8cc9
 renamed.0=classes.dex
 file.0=/Users/user01/FlappyHeri/Project/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_62343a6ba7fe88e2ac1462fe963ed11c270a8cc9/classes.dex

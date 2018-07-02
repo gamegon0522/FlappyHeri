@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="008466d6-d2f3-4e8e-a69a-daefb3caaa9a" name="Default" comment="" />
+    <list default="true" id="bcc8f2c7-4ee1-4388-ba7f-e0fc39ad6518" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1033,8 +1033,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
@@ -1216,11 +1216,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="008466d6-d2f3-4e8e-a69a-daefb3caaa9a" name="Default" comment="" />
-      <created>1528438121897</created>
+      <changelist id="bcc8f2c7-4ee1-4388-ba7f-e0fc39ad6518" name="Default" comment="" />
+      <created>1528947553439</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528438121897</updated>
+      <updated>1528947553439</updated>
     </task>
     <servers />
   </component>
